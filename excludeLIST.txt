@@ -1,0 +1,4 @@
+;打包排除列表，以下列出的文件均不会被打包进入
+res/gfont.ttf
+excludeLIST.txt
+packLIST.txt

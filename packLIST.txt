@@ -1,0 +1,8 @@
+;本文件中存放需要服务器底层打包的目录和文件名
+;文件夹打包只填写文件夹的目录，具体的文件，则需要填写具体的文件名字，包括文件后缀名
+hall
+res
+config.json
+config.txt
+game.ico
+src.zip
